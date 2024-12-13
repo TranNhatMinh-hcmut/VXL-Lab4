@@ -1,0 +1,3 @@
+task.c:6:6:Toggle_Red	8	static
+task.c:10:6:Toggle_Yellow	8	static
+task.c:14:6:Toggle_Green	8	static

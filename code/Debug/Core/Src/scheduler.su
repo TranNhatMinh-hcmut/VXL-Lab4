@@ -1,0 +1,6 @@
+scheduler.c:12:11:create_new_node	32	static
+scheduler.c:21:6:sche_init	8	static
+scheduler.c:32:9:sche_add_task	48	static
+scheduler.c:210:6:sche_update	4	static
+scheduler.c:217:6:sche_dispatcher	24	static
+scheduler.c:238:6:sche_delete_task	16	static
